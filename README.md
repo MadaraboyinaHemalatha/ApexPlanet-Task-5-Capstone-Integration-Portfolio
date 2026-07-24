@@ -102,11 +102,15 @@ Develop an interactive Power BI dashboard for business decision-making.
   
 ### Skills Learned
 
-Power BI
-DAX
-Dashboard Design
-KPI Development
-Business Intelligence
+- Power BI
+
+- DAX
+  
+- Dashboard Design
+  
+- KPI Development
+  
+- Business Intelligence
 
 📁 Repository: https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-3%20Deep%20Dive%20Analysis%20%26%20Interactive%20Dashboarding
 
@@ -118,61 +122,93 @@ Present business insights using storytelling techniques and hypothesis-based ana
 
 ### Work Completed
 
-Created a professional presentation
-Developed a business story
-Summarized key findings
-Added business recommendations
-Performed hypothesis-based business analysis
+- Created a professional presentation
+  
+- Developed a business story
+  
+- Summarized key findings
+  
+- Added business recommendations
+  
+- Performed hypothesis-based business analysis
 
 ### Skills Learned
 
-Data Storytelling
-Business Presentation
-Statistical Thinking
-Communication Skills
+- Data Storytelling
+  
+- Business Presentation
+  
+- Statistical Thinking
+  
+- Communication Skills
 
 📁 Repository: https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-4%20Data%20%20Storytelling%20%26%20Statistical%20Validation
 
 ## 🛠️ Tools & Technologies
 
-Microsoft Excel
-SQL
-Power BI
-DAX
-Power Query
-GitHub
-Microsoft PowerPoint
-google colab
+- Microsoft Excel
+  
+- SQL
+  
+- Power BI
+  
+- DAX
+  
+- Power Query
+  
+- GitHub
+  
+- Microsoft PowerPoint
+  
+- google colab
 
 ## 💡 Key Skills Developed
 
-Data Cleaning
-Data Analysis
-SQL Query Writing
-Exploratory Data Analysis (EDA)
-Business Intelligence
-Power BI Dashboard Development
-KPI Analysis
-Data Storytelling
-Statistical Validation
-GitHub Version Control
-Business Reporting
-Presentation Skills
+- Data Cleaning
+  
+- Data Analysis
+  
+- SQL Query Writing
+  
+- Exploratory Data Analysis (EDA)
+  
+- Business Intelligence
+  
+- Power BI Dashboard Development
+  
+- KPI Analysis
+  
+- Data Storytelling
+  
+- Statistical Validation
+  
+- GitHub Version Control
+  
+- Business Reporting
+  
+- Presentation Skills
 
 ## 📈 Key Learning Outcomes
+
 During this internship, I learned how to:
 
-Transform raw data into meaningful insights.
-Perform data cleaning and preprocessing.
-Analyze business problems using SQL.
-Design interactive dashboards using Power BI.
-Develop KPIs for business monitoring.
-Present analytical findings through storytelling.
-Organize projects professionally using GitHub.
+- Transform raw data into meaningful insights.
+  
+- Perform data cleaning and preprocessing.
+  
+- Analyze business problems using SQL.
+  
+- Design interactive dashboards using Power BI.
+  
+- Develop KPIs for business monitoring.
+  
+- Present analytical findings through storytelling.
+  
+- Organize projects professionally using GitHub.
 
 ## 🚀 Future Goals
 
-I aim to continue improving my skills in Data Analytics, Business Intelligence, Machine Learning, and Data Science by working on real-world projects and continuously learning new technologies.
+I aim to continue improving my skills in **Data Analytics, Business Intelligence, Machine Learning, and Data Science by working on real-world projects and continuously learning new technologies.**
 
 ## 🙏 Acknowledgement
 I sincerely thank ApexPlanet Software Pvt. Ltd. for providing this internship opportunity and helping me gain valuable practical experience in Data Analytics.
