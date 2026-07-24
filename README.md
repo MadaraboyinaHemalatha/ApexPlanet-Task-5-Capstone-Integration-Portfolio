@@ -16,10 +16,11 @@ Name: Madaraboyina Hema Latha
 
 This portfolio demonstrates my ability to transform raw data into meaningful business insights through analysis, visualization, and storytelling.
 
-🎯 Internship Objective
+## 🎯 Internship Objective
+
 The objective of this internship was to develop practical skills in the complete data analytics workflow—from data preparation to business insights and professional presentation.
 
-📂 Internship Tasks
+## 📂 Internship Tasks
 
 🔹 Task 1 – Data Immersion & Wrangling
 
