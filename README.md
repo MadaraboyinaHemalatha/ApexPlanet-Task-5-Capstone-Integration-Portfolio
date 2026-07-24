@@ -8,7 +8,7 @@ Throughout this internship, I gained practical experience in **data cleaning, SQ
 
 ## 👩‍💻 About Me
 
-Name: Madaraboyina Hema Latha
+**Name**: Madaraboyina Hema Latha
 
 🎓 Computer Science Engineering Student
 
@@ -214,19 +214,21 @@ I aim to continue improving my skills in **Data Analytics, Business Intelligence
 I sincerely thank ApexPlanet Software Pvt. Ltd. for providing this internship opportunity and helping me gain valuable practical experience in Data Analytics.
 
 ## 📬 Contact
-GitHub: https://github.com/MadaraboyinaHemalatha
 
-LinkedIn: https://www.linkedin.com/in/madaraboyina-hema-latha-b736812aa
+**GitHub**: https://github.com/MadaraboyinaHemalatha
 
-Email: hemamadaraboyina@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/madaraboyina-hema-latha-b736812aa
+
+**Email**: hemamadaraboyina@gmail.com
 
 ## 📅 Internship Details
-Organization: ApexPlanet Software Pvt. Ltd.
 
-Program: Data Analytics Internship
+**Organization**: ApexPlanet Software Pvt. Ltd.
 
-Duration: 60 Days
+**Program**: Data Analytics Internship
 
-## ⭐ Thank you for visiting my portfolio.
+**Duration**: 60 Days
+
+⭐ Thank you for visiting my portfolio.
 
 If you have any feedback or collaboration opportunities, feel free to connect with me through LinkedIn or GitHub.
