@@ -7,6 +7,7 @@ Welcome to my Data Analytics Internship Portfolio. This repository showcases all
 Throughout this internship, I gained practical experience in data cleaning, SQL, exploratory data analysis (EDA), Power BI dashboard development, data storytelling, statistical validation, and GitHub portfolio management.
 
 👩‍💻 About Me
+
 Name: Madaraboyina Hema Latha
 
 🎓 Computer Science Engineering Student
@@ -19,42 +20,60 @@ This portfolio demonstrates my ability to transform raw data into meaningful bus
 The objective of this internship was to develop practical skills in the complete data analytics workflow—from data preparation to business insights and professional presentation.
 
 📂 Internship Tasks
+
 🔹 Task 1 – Data Immersion & Wrangling
+
 Objective
+
 Clean and prepare raw sales data for analysis.
 
 Work Completed
+
 Explored the dataset
 Identified missing values and duplicates
 Performed data cleaning
 Standardized data formats
 Created an analysis-ready dataset
+
 Skills Learned
-Data Cleaning
-Data Preprocessing
-Excel
-Data Quality Assessment
+
+- Data Cleaning
+
+- Data Preprocessing
+
+- Excel
+
+- Data Quality Assessment
+
 📁 Repository: https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-1%20Data%20immersion%20wrangling
 
 🔹 Task 2 – Exploratory Data Analysis (EDA) & Business Intelligence
+
 Objective
+
 Analyze the cleaned dataset to discover trends, patterns, and business insights.
 
 Work Completed
+
 Performed descriptive statistics
 Answered business questions using SQL
 Created visualizations
 Identified important KPIs
 Designed a dashboard mock-up
+
 Skills Learned
+
 SQL
 EDA
 Business Analysis
 Data Visualization
+
 📁 Repository: Task 2_Exploratory-Data-Analysis%20(EDA) &-Business-Intelligence
 
 🔹 Task 3 – Deep-Dive Analysis & Interactive Dashboarding
+
 Objective
+
 Develop an interactive Power BI dashboard for business decision-making.
 
 Work Completed
