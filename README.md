@@ -90,12 +90,16 @@ Develop an interactive Power BI dashboard for business decision-making.
 
 ### Work Completed
 
-Built interactive Power BI dashboards
-Created KPIs using DAX
-Implemented slicers and filters
-Analyzed sales trends
-Identified top-performing products and regions
+- Built interactive Power BI dashboards
 
+- Created KPIs using DAX
+
+- Implemented slicers and filters
+
+- Analyzed sales trends
+
+- Identified top-performing products and regions
+  
 ### Skills Learned
 
 Power BI
