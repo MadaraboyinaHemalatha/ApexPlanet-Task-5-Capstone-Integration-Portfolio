@@ -60,20 +60,24 @@ Analyze the cleaned dataset to discover trends, patterns, and business insights.
 
 ### Work Completed
 
-Performed descriptive statistics
-Answered business questions using SQL
-Created visualizations
-Identified important KPIs
-Designed a dashboard mock-up
+- Performed descriptive statistics
 
-### kills Learned
+- Answered business questions using SQL
+
+- Created visualizations
+
+- Identified important KPIs
+
+- Designed a dashboard mock-up
+
+### skills Learned
 
 SQL
 EDA
 Business Analysis
 Data Visualization
 
-📁 Repository: Task 2_Exploratory-Data-Analysis%20(EDA) &-Business-Intelligence
+📁 Repository: https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-2%20_EDA-business-intelligent
 
 ## 🔹 Task 3 – Deep-Dive Analysis & Interactive Dashboarding
 
@@ -97,7 +101,7 @@ Dashboard Design
 KPI Development
 Business Intelligence
 
-📁 Repository: Task3_Deep-Dive Analysis & Interactive Dashboarding
+📁 Repository: https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-3%20Deep%20Dive%20Analysis%20%26%20Interactive%20Dashboarding
 
 ## 🔹 Task 4 – Data Storytelling & Statistical Validation
 
@@ -120,7 +124,7 @@ Business Presentation
 Statistical Thinking
 Communication Skills
 
-📁 Repository: Task4_Data Storytelling & Statistical Validatiion
+📁 Repository: https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-4%20Data%20%20Storytelling%20%26%20Statistical%20Validation
 
 ## 🛠️ Tools & Technologies
 
