@@ -22,13 +22,13 @@ The objective of this internship was to develop practical skills in the complete
 
 ## 📂 Internship Tasks
 
-🔹 Task 1 – Data Immersion & Wrangling
+## 🔹 Task 1 – Data Immersion & Wrangling
 
-Objective
+### Objective
 
 Clean and prepare raw sales data for analysis.
 
-Work Completed
+### Work Completed
 
 - Explored the dataset
 
@@ -39,7 +39,8 @@ Work Completed
 - Standardized data formats
 
 - Created an analysis-ready dataset
-Skills Learned
+
+### Skills Learned
 
 - Data Cleaning
 
@@ -51,13 +52,13 @@ Skills Learned
 
 📁 Repository: https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-1%20Data%20immersion%20wrangling
 
-🔹 Task 2 – Exploratory Data Analysis (EDA) & Business Intelligence
+## 🔹 Task 2 – Exploratory Data Analysis (EDA) & Business Intelligence
 
-Objective
+### Objective
 
 Analyze the cleaned dataset to discover trends, patterns, and business insights.
 
-Work Completed
+### Work Completed
 
 Performed descriptive statistics
 Answered business questions using SQL
@@ -65,7 +66,7 @@ Created visualizations
 Identified important KPIs
 Designed a dashboard mock-up
 
-Skills Learned
+### kills Learned
 
 SQL
 EDA
@@ -74,44 +75,55 @@ Data Visualization
 
 📁 Repository: Task 2_Exploratory-Data-Analysis%20(EDA) &-Business-Intelligence
 
-🔹 Task 3 – Deep-Dive Analysis & Interactive Dashboarding
+## 🔹 Task 3 – Deep-Dive Analysis & Interactive Dashboarding
 
-Objective
+### Objective
 
 Develop an interactive Power BI dashboard for business decision-making.
 
-Work Completed
+### Work Completed
+
 Built interactive Power BI dashboards
 Created KPIs using DAX
 Implemented slicers and filters
 Analyzed sales trends
 Identified top-performing products and regions
-Skills Learned
+
+### Skills Learned
+
 Power BI
 DAX
 Dashboard Design
 KPI Development
 Business Intelligence
+
 📁 Repository: Task3_Deep-Dive Analysis & Interactive Dashboarding
 
-🔹 Task 4 – Data Storytelling & Statistical Validation
-Objective
+## 🔹 Task 4 – Data Storytelling & Statistical Validation
+
+### Objective
+
 Present business insights using storytelling techniques and hypothesis-based analysis.
 
-Work Completed
+### Work Completed
+
 Created a professional presentation
 Developed a business story
 Summarized key findings
 Added business recommendations
 Performed hypothesis-based business analysis
-Skills Learned
+
+### Skills Learned
+
 Data Storytelling
 Business Presentation
 Statistical Thinking
 Communication Skills
+
 📁 Repository: Task4_Data Storytelling & Statistical Validatiion
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
+
 Microsoft Excel
 SQL
 Power BI
@@ -120,7 +132,9 @@ Power Query
 GitHub
 Microsoft PowerPoint
 google colab
-💡 Key Skills Developed
+
+## 💡 Key Skills Developed
+
 Data Cleaning
 Data Analysis
 SQL Query Writing
@@ -133,7 +147,8 @@ Statistical Validation
 GitHub Version Control
 Business Reporting
 Presentation Skills
-📈 Key Learning Outcomes
+
+## 📈 Key Learning Outcomes
 During this internship, I learned how to:
 
 Transform raw data into meaningful insights.
@@ -143,26 +158,28 @@ Design interactive dashboards using Power BI.
 Develop KPIs for business monitoring.
 Present analytical findings through storytelling.
 Organize projects professionally using GitHub.
-🚀 Future Goals
+
+## 🚀 Future Goals
+
 I aim to continue improving my skills in Data Analytics, Business Intelligence, Machine Learning, and Data Science by working on real-world projects and continuously learning new technologies.
 
-🙏 Acknowledgement
+## 🙏 Acknowledgement
 I sincerely thank ApexPlanet Software Pvt. Ltd. for providing this internship opportunity and helping me gain valuable practical experience in Data Analytics.
 
-📬 Contact
+## 📬 Contact
 GitHub: https://github.com/MadaraboyinaHemalatha
 
 LinkedIn: https://www.linkedin.com/in/madaraboyina-hema-latha-b736812aa
 
 Email: hemamadaraboyina@gmail.com
 
-📅 Internship Details
+## 📅 Internship Details
 Organization: ApexPlanet Software Pvt. Ltd.
 
 Program: Data Analytics Internship
 
 Duration: 60 Days
 
-⭐ Thank you for visiting my portfolio.
+## ⭐ Thank you for visiting my portfolio.
 
 If you have any feedback or collaboration opportunities, feel free to connect with me through LinkedIn or GitHub.
