@@ -230,5 +230,3 @@ Duration: 60 Days
 ## ⭐ Thank you for visiting my portfolio.
 
 If you have any feedback or collaboration opportunities, feel free to connect with me through LinkedIn or GitHub.
-
-Task-1 Data immersion wrangling[](url)
