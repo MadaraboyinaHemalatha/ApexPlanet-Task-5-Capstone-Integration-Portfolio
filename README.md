@@ -1,12 +1,12 @@
 # ApexPlanet-Task-5-Capstone-Integration-Portfolio
 
-📊 Data Analytics Internship Portfolio ApexPlanet Software Pvt. Ltd. – 60-Day Internship
+## 📊 Data Analytics Internship Portfolio ApexPlanet Software Pvt. Ltd. – 60-Day Internship
 
 Welcome to my Data Analytics Internship Portfolio. This repository showcases all the tasks and projects I completed during my 60-Day Data Analytics Internship at ApexPlanet Software Pvt. Ltd.
 
-Throughout this internship, I gained practical experience in data cleaning, SQL, exploratory data analysis (EDA), Power BI dashboard development, data storytelling, statistical validation, and GitHub portfolio management.
+Throughout this internship, I gained practical experience in **data cleaning, SQL, exploratory data analysis (EDA), Power BI dashboard development, data storytelling, statistical validation, and GitHub portfolio management.**
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 Name: Madaraboyina Hema Latha
 
@@ -29,12 +29,15 @@ Clean and prepare raw sales data for analysis.
 
 Work Completed
 
-Explored the dataset
-Identified missing values and duplicates
-Performed data cleaning
-Standardized data formats
-Created an analysis-ready dataset
+- Explored the dataset
 
+- Identified missing values and duplicates
+
+- Performed data cleaning
+
+- Standardized data formats
+
+- Created an analysis-ready dataset
 Skills Learned
 
 - Data Cleaning
