@@ -72,10 +72,13 @@ Analyze the cleaned dataset to discover trends, patterns, and business insights.
 
 ### skills Learned
 
-SQL
-EDA
-Business Analysis
-Data Visualization
+- SQL
+
+- EDA
+
+- Business Analysis
+
+- Data Visualization
 
 📁 Repository: https://github.com/MadaraboyinaHemalatha/DATA-ANALYTICS/tree/main/Task-2%20_EDA-business-intelligent
 
